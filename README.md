@@ -1,5 +1,7 @@
 # Workplace Harassment Survey Analysis
 
+### Refer to analytics5/ for all the analytics. You can also access charts/ for exclusive access to all the visuals. Rest files provided are draft files.
+
 This project analyzes survey data regarding awareness and effectiveness of workplace harassment policies in the private sector. The data is processed and visualized, with a comprehensive report generated in HTML, PDF, and DOCX formats. The report includes statistical analysis, charts, and recommendations to improve workplace harassment awareness and reporting systems.
 
 ## Project Overview
